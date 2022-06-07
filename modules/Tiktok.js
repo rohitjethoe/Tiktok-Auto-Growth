@@ -9,7 +9,7 @@ const Tiktok = {
         '#viraalgaanisookgaan',
         '#goviral',
         '#voorjou'
-    ],
+    ], 
     openBrowser: async () => {
         Tiktok.browser = await puppeteer.launch({
             headless: false
