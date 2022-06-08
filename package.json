@@ -1,7 +1,7 @@
 {
   "name": "tiktok-auto-growth",
   "version": "1.0.0",
-  "description": "Tiktok Auto Posting bot",
+  "description": " Tiktok automated video posting bot.",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon App"
