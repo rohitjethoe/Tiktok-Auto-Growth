@@ -1,13 +1,20 @@
 {
-  "name": "tiktok-application2",
+  "name": "tiktok-auto-growth",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tiktok Auto Posting bot",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon App"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitjethoe/Tiktok-Auto-Growth.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitjethoe/Tiktok-Auto-Growth/issues"
+  },
   "dependencies": {
     "nodemon": "^2.0.16",
     "puppeteer": "^14.3.0"
